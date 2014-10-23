@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 
 Project("{B369B4EB-FFC7-545E-0C4D-02DB94D40CE0}") = "Dino_TestLevelMASTER", "Assembly-CSharp-firstpass-vs.csproj", "{DC64D9F6-3679-C65E-ED43-3DFCB6298496}"
 EndProject
+Project("{B369B4EB-FFC7-545E-0C4D-02DB94D40CE0}") = "Dino_TestLevelMASTER", "Assembly-CSharp-vs.csproj", "{B74E6566-955D-3323-39ED-11A1FEC9403B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,11 +15,15 @@ Global
 		{DC64D9F6-3679-C65E-ED43-3DFCB6298496}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC64D9F6-3679-C65E-ED43-3DFCB6298496}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC64D9F6-3679-C65E-ED43-3DFCB6298496}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B74E6566-955D-3323-39ED-11A1FEC9403B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B74E6566-955D-3323-39ED-11A1FEC9403B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B74E6566-955D-3323-39ED-11A1FEC9403B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B74E6566-955D-3323-39ED-11A1FEC9403B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-																					GlobalSection(MonoDevelopProperties) = preSolution
+																							GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
