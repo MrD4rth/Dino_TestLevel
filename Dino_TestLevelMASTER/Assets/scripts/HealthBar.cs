@@ -33,7 +33,7 @@ public class HealthBar : MonoBehaviour
 	{
 		framePosition.x = (Screen.width - framePosition.width) / 2;
 		framePosition.width = Screen.width * 0.38f;
-		framePosition.height = Screen.height * 0.049f;
+		framePosition.height = Screen.height * 0.048f;
 		GUI.DrawTexture (framePosition, frame);
 	}
 
